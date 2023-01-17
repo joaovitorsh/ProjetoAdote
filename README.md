@@ -1,6 +1,6 @@
 # Projeto ADO.TE
 
-O projeto ADO.TE é um projeto simples de um site para adoção de animais, este foi realizado durante bootcamp da "PYSTACK WEEK - O RETORNO" dos dias 09/01/2023 até 15/01/2023.
+O projeto ADO.TE é um projeto simples feito em Django de um site para adoção de animais, este foi realizado durante bootcamp da "PYSTACK WEEK - O RETORNO" dos dias 09/01/2023 até 15/01/2023.
 
 ## Instalação
 
